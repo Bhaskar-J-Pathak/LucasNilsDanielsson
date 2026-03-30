@@ -3,11 +3,13 @@
 import { useState, useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
 
+const EASE: [number, number, number, number] = [0.25, 0.1, 0.25, 1]
+
 const LINE_VARIANTS = {
   hidden: { clipPath: 'inset(0 0 100% 0)' },
   visible: (delay: number) => ({
     clipPath: 'inset(0 0 0% 0)',
-    transition: { duration: 0.9, ease: [0.25, 0.1, 0.25, 1], delay },
+    transition: { duration: 0.9, ease: EASE, delay },
   }),
 };
 
