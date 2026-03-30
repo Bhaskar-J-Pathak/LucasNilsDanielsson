@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"C:\\\\Users\\\\bhask\\\\OneDrive\\\\Desktop\\\\FullProject\\\\magician-portfolio\" && npx skills find \"frontend design UI UX awwwards animation\" 2>&1)",
+      "Bash(cd \"C:\\\\Users\\\\bhask\\\\OneDrive\\\\Desktop\\\\FullProject\\\\magician-portfolio\" && npx skills find \"motion scroll interactions creative portfolio\" 2>&1)",
+      "Bash(cd \"C:\\\\Users\\\\bhask\\\\OneDrive\\\\Desktop\\\\FullProject\\\\magician-portfolio\" && npx skills add kv0906/cc-skills@premium-frontend-design -g -y 2>&1)",
+      "Bash(cd \"C:\\\\Users\\\\bhask\\\\OneDrive\\\\Desktop\\\\FullProject\\\\magician-portfolio\" && npx skills add eng0ai/eng0-template-skills@gsap-awwwards-website -g -y 2>&1 && npx skills add devmartinese/awwwards-animations-skill@awwwards-animations -g -y 2>&1)",
+      "Bash(cd \"C:\\\\Users\\\\bhask\\\\OneDrive\\\\Desktop\\\\FullProject\\\\magician-portfolio\" && npx skills add leonxlnx/taste-skill@design-taste-frontend -g -y 2>&1 && npx skills add su69ar/rdnax-gsap-master@gsap-master -g -y 2>&1)",
+      "Bash(Get-Content:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(grep:*)",
+      "Bash(cd \"C:\\\\Users\\\\bhask\\\\OneDrive\\\\Desktop\\\\FullProject\\\\magician-portfolio\" && npm run build 2>&1)",
+      "mcp__ide__getDiagnostics",
+      "Bash(cd C:\\\\Users\\\\bhask\\\\OneDrive\\\\Desktop\\\\FullProject\\\\magician-portfolio:*)",
+      "Bash(test:*)"
+    ]
+  }
+}
