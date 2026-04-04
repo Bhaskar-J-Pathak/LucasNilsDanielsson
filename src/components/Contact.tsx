@@ -185,7 +185,7 @@ export default function Contact() {
               color:         'rgba(245, 243, 238, 0.35)',
             }}
           >
-            Stockholm, Sweden
+            Borlänge, Sweden
           </span>
           <button
             onClick={handleScrollTop}

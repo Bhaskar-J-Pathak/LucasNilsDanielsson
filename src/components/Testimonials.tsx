@@ -6,26 +6,22 @@ import { motion, useInView } from 'framer-motion';
 interface TestimonialItem {
   quote: string;
   name: string;
-  role: string;
 }
 
 const TESTIMONIALS: TestimonialItem[] = [
   {
     quote: 'He made 200 engineers stop talking. That never happens.',
     name: 'Anna Lindqvist',
-    role: 'Head of Events · Spotify Stockholm',
   },
   {
     quote:
       "The only performer we've ever asked back three years running. The guests never see it coming — even the second time.",
     name: 'Marcus Strand',
-    role: 'Event Director · Four Seasons Stockholm',
   },
   {
     quote:
       "Our entire audience gave a standing ovation. In fifteen years of producing shows, I've never seen that from a magic act.",
     name: 'Sofia Berg',
-    role: 'Producer · Nobel Prize Banquet',
   },
 ];
 
@@ -89,7 +85,6 @@ function TestimonialRow({
           >
             /
           </span>
-          {item.role}
         </div>
       </div>
     </motion.div>

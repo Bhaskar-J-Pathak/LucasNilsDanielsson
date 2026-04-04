@@ -116,7 +116,7 @@ export default function Timeline() {
             letterSpacing: '-0.01em',
           }}
         >
-          I grew up in Stockholm, where the winters are long enough to leave time
+          I grew up in Borlänge, where the winters are long enough to leave time
           for wonder. Magic found me at twelve. I haven&apos;t looked back since.
         </p>
       </div>

@@ -96,7 +96,8 @@ export default function Sentence() {
           marginTop:     'clamp(32px, 5vh, 64px)',
         }}
       >
-        Stockholm, Sweden
+        
+      Borlänge, Sweden
       </motion.span>
     </section>
   )

@@ -15,6 +15,7 @@ const WORKS = [
   { src: '/images/video_5.mov',  caption: 'Tiktok' },
   { src: '/images/Close-Up.jpeg',  caption: 'Close Up'  },
   { src: '/images/Professional-Show.jpg', caption: 'Event Stage'  },
+  { src: '/images/Opener.jpg', caption: 'Opener to Joe Labero'  },
 ]
 
 // Each image: fixed width, height, vertical offset from track centre, subtle rotation

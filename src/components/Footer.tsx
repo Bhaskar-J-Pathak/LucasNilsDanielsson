@@ -211,7 +211,7 @@ export default function Footer() {
                     color:         'rgba(13,13,13,0.35)',
                   }}
                 >
-                  Stockholm, Sweden
+                  Borlänge, Sweden
                 </span>
                 <span style={{ color: 'rgba(13,13,13,0.2)', fontSize: '10px' }}>·</span>
                 <span
@@ -284,7 +284,7 @@ export default function Footer() {
                     lineHeight:    1,
                   }}
                 >
-                  Stockholm
+                  Borlänge
                 </span>
               </div>
             </div>

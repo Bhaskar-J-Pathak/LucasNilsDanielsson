@@ -192,7 +192,7 @@ export default function Hero() {
           zIndex: 6,
         }}
       >
-        Stockholm — SE
+      Borlänge — SE
       </div>
 
       {/* Bottom-right: scroll cue */}
